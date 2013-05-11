@@ -8,6 +8,11 @@
  
 /* PUT IN YOUR SLIDER ID AND SIZE TO MAKE LOAD BEAUTIFULLY
    ================================================== */
+
+body {
+    background-color: #FFF;
+}
+
 #featured { 
 	width: 940px;
 	height: 450px;
@@ -16,10 +21,6 @@
 #featured>img,  
 #featured>div,
 #featured>a { display: none; }
-
-body {
-    background-color: #FFF;
-}
 
 .hidden {
     opacity: 0.0%;
